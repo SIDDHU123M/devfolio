@@ -313,10 +313,6 @@ DevFolio follows a clean, modern design philosophy with:
 - Offline support
 - App-like experience
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our contributing guidelines for more details.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
