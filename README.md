@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/demo-live-blue?style=for-the-badge)](https://timely-capybara-61e4b7.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-blue?style=for-the-badge)](https://siddhu123m.github.io/Devfolioo/)
 [![Built with React](https://img.shields.io/badge/built%20with-react-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Database](https://img.shields.io/badge/database-supabase-3ecf8e?style=for-the-badge&logo=supabase)](https://supabase.com/)
 [![Styling](https://img.shields.io/badge/styling-tailwind-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
@@ -99,7 +99,7 @@
   - Multiple languages
   - Copy functionality
 - **Responsive Design**
-  - Mobile optimization
+  - Mobile opization
   - Tablet support
   - Desktop layouts
 
@@ -107,7 +107,7 @@
 - **Portfolio Search**
   - Advanced filtering
   - Tag-based search
-  - Real-time results
+  - Real-e results
 - **Featured Developers**
   - Trending profiles
   - Category leaders
