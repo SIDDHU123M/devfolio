@@ -13,6 +13,8 @@
   <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=1600&q=80" alt="DevFolio Preview" style="border-radius: 10px; max-width: 800px; width: 100%; margin: 20px 0;" />
 </div>
 
+> ⚠️ **Important Notice**: To maintain platform quality, profiles that remain inactive (no details added) for 7 days after creation will be automatically set to private. Users will be notified via their profile bio and can make their profile public again by adding content and updating their privacy settings.
+
 ## ✨ Features
 
 ### 📊 Analytics Dashboard
@@ -41,7 +43,7 @@
 - **Privacy Controls**
   - Public/private profile toggle
   - Selective project visibility
-  - Data protection settings
+  - Auto-privacy protection after 7 days of inactivity
 
 ### 💼 Project Showcase
 - **GitHub Integration**
@@ -99,7 +101,7 @@
   - Multiple languages
   - Copy functionality
 - **Responsive Design**
-  - Mobile opization
+  - Mobile optimization
   - Tablet support
   - Desktop layouts
 
@@ -107,7 +109,7 @@
 - **Portfolio Search**
   - Advanced filtering
   - Tag-based search
-  - Real-e results
+  - Real-time results
 - **Featured Developers**
   - Trending profiles
   - Category leaders
@@ -153,7 +155,7 @@
   - Session management
 
 - **Deployment**
-  - Netlify hosting
+  - GitHub Pages hosting
   - Continuous deployment
   - Edge functions
   - CDN distribution
@@ -192,126 +194,15 @@ DevFolio is fully responsive and optimized for:
   - Semantic HTML
   - Sitemap generation
 
-## 🎯 Key Benefits
+## 🌟 Connect With Us
 
-- **Professional Presentation**
-  - Clean, modern design
-  - Professional layouts
-  - Customizable themes
-  - Brand consistency
+<div align="center" style="margin-top: 20px;">
 
-- **Real-time Analytics**
-  - Visitor tracking
-  - Engagement metrics
-  - Performance analysis
-  - Growth insights
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sidhart_h69)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhu123m)
+[![Repository](https://img.shields.io/badge/Repository-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDDHU123M/devfolio)
 
-- **Easy Customization**
-  - No coding required
-  - Visual customization
-  - Content management
-  - Layout control
-
-- **GitHub Integration**
-  - Repository sync
-  - Stats tracking
-  - Contribution graph
-  - Automatic updates
-
-## 🌟 Unique Features
-
-- **Matrix Animation**
-  - Custom effects
-  - Interactive elements
-  - Performance optimized
-  - Theme integration
-
-- **Code Snippets**
-  - Syntax highlighting
-  - Multiple languages
-  - Copy functionality
-  - Line numbers
-
-- **Real-time Stats**
-  - Live updates
-  - GitHub integration
-  - View tracking
-  - Interaction metrics
-
-- **Custom Sections**
-  - Markdown support
-  - Rich text editor
-  - Media embedding
-  - Layout options
-
-## 📈 Performance
-
-- **Optimized Loading**
-  - Code splitting
-  - Lazy loading
-  - Asset optimization
-  - Cache strategies
-
-- **Fast Navigation**
-  - Client-side routing
-  - Prefetching
-  - Smooth transitions
-  - Loading states
-
-- **Resource Management**
-  - Image optimization
-  - Font loading
-  - Asset minification
-  - Bundle optimization
-
-## 🔒 Security Features
-
-- **Authentication Flow**
-  - Secure login
-  - OAuth integration
-  - Session management
-  - Token handling
-
-- **Data Protection**
-  - Row Level Security
-  - Data encryption
-  - Privacy controls
-  - Access management
-
-- **API Security**
-  - Rate limiting
-  - CORS policies
-  - Token validation
-  - Error handling
-
-## 🎨 Design Philosophy
-
-DevFolio follows a clean, modern design philosophy with:
-- Professional aesthetics
-- Clear typography
-- Consistent spacing
-- Thoughtful animations
-- Intuitive navigation
-- Visual hierarchy
-- Color psychology
-
-## 🌐 Browser Support
-
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Modern mobile browsers
-
-## 📱 Mobile Features
-
-- Touch-friendly interface
-- Responsive layouts
-- Mobile-first design
-- Optimized images
-- Fast loading times
-- Offline support
-- App-like experience
+</div>
 
 ## 📄 License
 
@@ -322,4 +213,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Icons by [Lucide](https://lucide.dev)
 - Fonts by [Inter](https://rsms.me/inter/)
 - Database by [Supabase](https://supabase.com)
-- Hosting by [Netlify](https://www.netlify.com)
+- Hosting by [GitHub Pages](https://pages.github.com)
